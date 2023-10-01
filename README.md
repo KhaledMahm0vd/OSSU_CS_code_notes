@@ -47,8 +47,8 @@ and is knowledgeable enough now to decide which electives to take.
 `simple data structures`
 
 Courses | Started | in progress | finished |code | notes|
-:-- | :--: | :--: | :--: | :--:|:--:|:--:
-[Python for Everybody](https://www.py4e.com/lessons) | yes | yes | none |
+|-------|---------|-------------|----------|-----|------|
+[Python for Everybody](https://www.py4e.com/lessons) | yes | yes | none |Not yet|None|
 
 ### Introduction to Computer Science
 **Topics covered**:
