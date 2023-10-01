@@ -239,16 +239,15 @@ Courses | Started | in progress | finished |code | notes|
 `large-scale software architecture and design`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)| 4 weeks | 6-8 hours/week | Scala programming
-[Compilers](https://www.edx.org/course/compilers) | 9 weeks | 6-8 hours/week | none
-[Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)| 14 weeks | - | -
-[Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) ([alt](https://github.com/ossu/computer-science/files/6085884/lpn.pdf))*| 12 weeks | - | -
-[Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week | Python, object-oriented programming
-[Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | 6 hours/week | Python, programming experience
+Courses | Started | in progress | finished |code | notes|
+|-------|---------|-------------|----------|-----|------|
+[Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)| None | None | none | None | None|
+[Compilers](https://www.edx.org/course/compilers) | None | None | none | None | None|
+[Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)| None | None | none | None | None|
+[Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) ([alt](https://github.com/ossu/computer-science/files/6085884/lpn.pdf))*| None | None | none | None | None|
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| None | None | none | None | None|
+[Software Testing](https://www.udacity.com/course/software-testing--cs258) | None | None | none | None | None|
 
-(*) book by Blackburn, Bos, Striegnitz (compiled from [source](https://github.com/LearnPrologNow/lpn), redistributed under [CC license](https://creativecommons.org/licenses/by-sa/4.0/))
 
 ### Advanced systems
 
@@ -268,11 +267,11 @@ Courses | Duration | Effort | Prerequisites
 `system call interface`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Notes
-:-- | :--: | :--: | :--: | :--:
-[Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) [alt1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) [alt2 ](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/) | 10 weeks | 6 hours/week | [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2) | Alternate links contain all 3 courses.
-[Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015) | 10 weeks | 6 hours/week | Computation Structures 1 |
-[Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) | 10 weeks | 6 hours/week | Computation Structures 2 |
+Courses | Started | in progress | finished |code | notes|
+|-------|---------|-------------|----------|-----|------|
+[Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) [alt1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) [alt2 ](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/) || None | None | none | None | None|
+[Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015) | None | None | none | None | None|
+[Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) | None | None | none | None | None|
 
 ### Advanced theory
 
@@ -292,135 +291,46 @@ Courses | Duration | Effort | Prerequisites | Notes
 `game trees`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) ([alt](http://aduni.org/courses/theory/index.php?view=cw)) | 13 weeks | 10 hours/week | [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about), logic, algorithms
-[Computational Geometry](https://www.edx.org/course/computational-geometry) | 16 weeks | 8 hours/week | algorithms, C++
-[Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | 3 hours/week | mathematical thinking, probability, calculus
+Courses | Started | in progress | finished |code | notes|
+|-------|---------|-------------|----------|-----|------|
+[Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) ([alt](http://aduni.org/courses/theory/index.php?view=cw)) | None | None | none | None | None|
+[Computational Geometry](https://www.edx.org/course/computational-geometry) | None | None | none | None | None|
+[Game Theory](https://www.coursera.org/learn/game-theory-1) | None | None | none | None | None|
 
 ### Advanced Information Security
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) | 5 weeks | 4-6 hours/week | understanding basic web technologies
-[Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | 3 hours/week | -
-[Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | 2-3 hours/week | Core Security
-[Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse) | 7 weeks | 1-2 hours/week | Core Programming and Core Security
-[Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) | 7 weeks | 1-2 hours/week | Secure Software Development: Requirements, Design, and Reuse
-[Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation
+Courses | Started | in progress | finished |code | notes|
+|-------|---------|-------------|----------|-----|------|
+[Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) | None | None | none | None | None|
+[Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | None | None | none | None | None|
+[Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | None | None | none | None | None|
+[Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse) | None | None | none | None | None|
+[Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) | None | None | none | None | None|
+[Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | None | None | none | None | None|
 
 ### Advanced math
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/m6wHbP6)
-[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra | [chat](https://discord.gg/k7nSWJH)
-[Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)| 14 weeks | 12 hours/week | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | [chat](https://discord.gg/FNEcNNq)
-[Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 10 weeks | 4-8 hours/week | [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5)
-[Probability](https://projects.iq.harvard.edu/stat110/home) | 15 weeks | 5-10 hours/week | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | [chat](https://discord.gg/UVjs9BU)
+Courses | Started | in progress | finished |code | notes|
+|-------|---------|-------------|----------|-----|------|
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | None | None | none | None | None|
+[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | None | None | none | None | None|
+[Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)| None | None | none | None | None|
+[Introduction to Formal Logic](https://forallx.openlogicproject.org/) | None | None | none | None | None|
+[Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | None | None | none | None | None|
+[Probability](https://projects.iq.harvard.edu/stat110/home) | None | None | none | None | None| [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | None | None | none | None | None|
 
 ## Final project
-
-OSS University is project-focused.
-The assignments and exams for each course are to prepare you to use your knowledge to solve real-world problems.
-
-After you've gotten through all of Core CS and the parts of Advanced CS relevant to you, you should think about a problem that you can solve using the knowledge you've acquired.
-Not only does real project work look great on a resume, but the project will also validate and consolidate your knowledge.
 You can create something entirely new, or you can find an existing project that needs help via websites like
 [CodeTriage](https://www.codetriage.com/)
 or
 [First Timers Only](https://www.firsttimersonly.com/).
-
-Students who would like more guidance in creating a project may choose to use a series of project oriented courses. Here is a sample of options (many more are available, at this point you should be capable of identifying a series that is interesting and relevant to you):
-
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Fullstack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | programming
-[Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics) | 26 weeks | 2-5 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations)
-[Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | machine learning
-[Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | none
-[Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | strong programming
-[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming
-[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
-[Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience
-[Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | programming, interactive design
-
-### Evaluation
-
-Upon completing your final project:
-- Submit your project's information to [PROJECTS](PROJECTS.md) via a pull request.
-- Put the OSSU-CS badge in the README of your repository!
-[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
-
-  - Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)`
-  - HTML: `<a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>`
-- Use our [community](#community) channels to announce it to your fellow students.
-
-Solicit feedback from your OSSU peers.
-You will not be "graded" in the traditional sense — everyone has their own measurements for what they consider a success.
-The purpose of the evaluation is to act as your first announcement to the world that you are a computer scientist
-and to get experience listening to feedback — both positive and negative.
-
-The final project evaluation has a second purpose: to evaluate whether OSSU,
-through its community and curriculum, is successful in its mission to guide independent learners in obtaining a world-class computer science education.
-
-### Cooperative work
-
-You can create this project alone or with other students!
-**We love cooperative work**!
-Use our [channels](#community) to communicate with other fellows to combine and create new projects!
-
-### Which programming languages should I use?
-
-My friend, here is the best part of liberty!
-You can use **any** language that you want to complete the final project.
-
-The important thing is to **internalize** the core concepts and to be able to use them with whatever tool (programming language) that you wish.
-
-## Congratulations
-
-After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor's degree in Computer Science. Congratulations!
-
-What is next for you? The possibilities are boundless and overlapping:
-
-- Look for a job as a developer!
-- Check out the [readings](extras/readings.md) for classic books you can read that will sharpen your skills and expand your knowledge.
-- Join a local developer meetup (e.g. via [meetup.com](https://www.meetup.com/)).
-- Pay attention to emerging technologies in the world of software development:
-  + Explore the **actor model** through [Elixir](https://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
-  + Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!
-  + Explore **dependent type systems** through [Idris](https://www.idris-lang.org/), a new Haskell-inspired language with unprecedented support for type-driven development.
-
-![keep learning](https://i.imgur.com/REQK0VU.jpg)
-
-# Code of conduct
-[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
-
-## How to show your progress
-
-1. Create an account in [Trello](https://trello.com/).
-1. Copy [this](https://trello.com/b/IScNSzsI/ossu-compsci) board to your personal account.
-See how to copy a board [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
-
-Now that you have a copy of our official board, you just need to pass the cards to the `Doing` column or `Done` column as you progress in your study.
-
-We also have **labels** to help you have more control through the process.
-The meaning of each of these labels is:
-
-- `Main Curriculum`: cards with that label represent courses that are listed in our curriculum.
-- `Extra Resources`: cards with that label represent courses that were added by the student.
-- `Doing`: cards with that label represent courses the student is currently doing.
-- `Done`: cards with that label represent courses finished by the student.
-Those cards should also have the link for at least one project/article built with the knowledge acquired in such a course.
-- `Section`: cards with that label represent the section that we have in our curriculum.
-Those cards with the `Section` label are only to help the organization of the Done column.
-You should put the *Course's cards* below its respective *Section's card*.
-
-The intention of this board is to provide our students a way to track their progress, and also the ability to show their progress through a public page for friends, family, employers, etc.
-You can change the status of your board to be *public* or *private*.
-
-# Team
-
-* **[Eric Douglas](https://github.com/ericdouglas)**: founder of OSSU
-* **[Josh Hanson](https://github.com/joshmhanson)**: lead technical maintainer
-* **[Waciuma Wanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
-* **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**
+Courses | Started | in progress | finished |code | notes|
+|-------|---------|-------------|----------|-----|------|
+[Fullstack Open](https://fullstackopen.com/en/) | None | None | none | None | None|
+[Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics) | None | None | none | None | None|
+[Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | None | None | none | None | None|
+[Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | None | None | none | None | None|
+[Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | None | None | none | None | None|
+[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | None | None | none | None | None|
+[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | None | None | none | None | None|
+[Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | None | None | none | None | None|
+[Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | None | None | none | None | None|
