@@ -208,8 +208,8 @@ Courses | Started | in progress | finished |code | notes|
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| None | None | none | None | None|
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| None | None | none | None | None|
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| None | None | none | None | None|
-[Computer Graphics](https://www.edx.org/course/computer-graphics-2)| None | None | none | None | None|
-[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) | None | None | none | None | None|
+[Computer Graphics](https://www.edx.org/course/computer-graphics-2) ([alternative](https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/schedule.html))| None | None | none | None | None|
+[Software Engineering: Introduction](https://www.coursera.org/learn/introduction-to-software-engineering) | None | None | none | None | None|
 
 ### Core ethics
 
@@ -246,7 +246,7 @@ Courses | Started | in progress | finished |code | notes|
 [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)| None | None | none | None | None|
 [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) ([alt](https://github.com/ossu/computer-science/files/6085884/lpn.pdf))*| None | None | none | None | None|
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| None | None | none | None | None|
-[Software Testing](https://www.udacity.com/course/software-testing--cs258) | None | None | none | None | None|
+[Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) | None | None | none | None | None|
 
 
 ### Advanced systems
